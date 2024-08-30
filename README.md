@@ -1,7 +1,7 @@
 # PhoneNow-Customer-Retention-Analysis
 
 #
-![Dashboard](https://github.com/sanmyyung/PhoneNow-Customer-Retention-Analysis/blob/main/Dashboard.JPG)
+![Dashboard](https://github.com/sanmyyung/PhoneNow-Customer-Retention-Analysis/blob/main/Dashboard..JPG)
 
 ## Introduction
 This report presents an analysis of customer retention data for PhoneNow, a telecommunications company. The analysis is based on a Power BI dashboard that provides insights into key performance indicators (KPIs), customer demographics, and churn factors. The purpose is to help stakeholders understand customer retention patterns, identify risk factors for churn, and make data-driven decisions to improve customer retention.
